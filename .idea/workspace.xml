@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92fc85a4-72ae-4338-aabf-863fa72c5ab4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyshop/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyshop/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="92fc85a4-72ae-4338-aabf-863fa72c5ab4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724191908250</updated>
       <workItem from="1724191914716" duration="11178000" />
-      <workItem from="1724239035216" duration="5898000" />
+      <workItem from="1724239035216" duration="6210000" />
     </task>
     <servers />
   </component>
